@@ -15,10 +15,10 @@ Click the button below to start a new development environment:
 1.  Start your local dev server with `npm run dev`.
 2.  Build a preview with `npm run build` and `npm run preview`
 
-## Learn about Svelte (frontend library)
+## Learn about Svelte
 
 [Svelte Tutorial](https://svelte.dev/tutorial/basics)
 
-## Learn about SvelteKit (framework)
+## Learn about SvelteKit
 
 [SvelteKit Docs](https://kit.svelte.dev/)
