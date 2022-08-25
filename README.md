@@ -1,4 +1,4 @@
-# A SvelteKit template on Gitpod
+# A SvelteKit template on Gitpod | @sveltejs/kit@1.0.0-next.440
 
 This is a [SvelteKit](https://kit.svelte.dev) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
@@ -6,14 +6,19 @@ This is a [SvelteKit](https://kit.svelte.dev) template configured for ephemeral 
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-sveltekit)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/hyyyper/template-sveltekit)
 
 ## Get Started With Your Own Project
 
-### A new project
+### Sveltekit Commands
 
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
+1.  Start your local dev server with `npm run dev`.
+2.  Build a preview with `npm run build` and `npm run preview`
 
-### An existing project
+## Learn about Svelte (frontend library)
 
-To get started with SvelteKit on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
+[Svelte Tutorial](https://svelte.dev/tutorial/basics)
+
+## Learn about SvelteKit (framework)
+
+[SvelteKit Docs](https://kit.svelte.dev/)
